@@ -7,6 +7,6 @@ Curso na Alura - Expressões regulares: capturando textos de forma mágica
 
 ## 🔨 Funcionalidades do projeto
 
-Aprendendo e entendo expressões regulares com classes, âncoras, quantifiers e grupos no Javascript.
+Aprendendo expressões regulares com classes, âncoras, quantifiers e grupos no Javascript.
 
 </div>
